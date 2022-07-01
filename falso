@@ -1,0 +1,13 @@
+import java.util.*;
+
+class Main {
+  public static void main(String[] args) {
+ String str = "caractere";
+System.out.print(str.contains("h"));
+System.out.print(str.contains("cher")); 
+System.out.print(str.contains("ac"));
+System.out.print(str.contains("v"));
+System.out.print(str.contains("vl"));
+    
+  }
+}
